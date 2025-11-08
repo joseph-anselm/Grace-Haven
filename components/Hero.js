@@ -1,5 +1,5 @@
 import React from 'react';
-import { UserGroupIcon, CalendarIcon, HeartIcon, PlayIcon, BookOpenIcon, ChevronDownIcon } from './icons';
+import { UserGroupIcon, CalendarIcon, HeartIcon, PlayIcon, BookOpenIcon, ChevronDownIcon } from './Icons';
 
 const FeatureCard = ({ icon, title, description, color }) => {
   return (

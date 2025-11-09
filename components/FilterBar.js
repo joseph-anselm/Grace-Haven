@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from 'react';
-import { SearchIcon, GridIcon, FaithIcon, HeartIcon, PrayerIcon, CourageIcon, GratitudeIcon, WisdomIcon, HopeIcon, ServiceIcon, UserGroupIcon, ChildIcon, TeenIcon, AdultIcon } from './icons.js';
+import { SearchIcon, GridIcon, FaithIcon, HeartIcon, PrayerIcon, CourageIcon, GratitudeIcon, WisdomIcon, HopeIcon, ServiceIcon, UserGroupIcon, ChildIcon, TeenIcon, AdultIcon } from './Icons.js';
 
 const topics = [
   { name: 'All Topics', icon: <GridIcon className="w-5 h-5" /> },

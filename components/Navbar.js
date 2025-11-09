@@ -34,7 +34,7 @@ export default function Navbar() {
 
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center space-x-6">
-          {["Home", "Devotionals", "Age Groups", "About", "Contact"].map(
+          {["Home", "Devotionals", "Age-Groups", "About", "Contact"].map(
             (item, idx) => (
               <Link
                 key={idx}
@@ -70,7 +70,7 @@ export default function Navbar() {
       {menuOpen && (
         <div className="md:hidden bg-white shadow-md border-t">
           <div className="flex flex-col space-y-2 py-4 px-6">
-            {["Home", "Devotionals", "Age Groups", "About", "Contact"].map(
+            {["Home", "Devotionals", "Age-Groups", "About", "Contact"].map(
               (item, idx) => (
                 <Link
                   key={idx}

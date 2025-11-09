@@ -114,7 +114,7 @@ const Footer = () => {
         <div className="mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between">
           <p className="text-base text-gray-400 md:order-1">&copy; 2025 Grace Haven Devotionals. All rights reserved.</p>
           <p className="mt-4 text-base text-gray-400 md:mt-0 md:order-2">
-            <a href="#" className="hover:text-white">Pointx an Zest</a>
+            <a href="#" className="hover:text-white">Pointx and Zest</a>
           </p>
         </div>
       </div>
